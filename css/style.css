@@ -1,0 +1,31 @@
+#jumbo1
+{
+    background-image: url("../images/nycskyline.jpg");
+        background-size: cover;
+        background-color: #7EC0EE;
+        color: white;
+}
+
+#header1
+{
+    background-color:  #793698;
+    background-size: cover;
+    color: white;
+}
+
+#gallery1
+{
+    background-color: #d6b4e7;
+    background-size: cover;
+}
+#button1
+{
+    background-color: #ac68cc;
+    color: white;
+}
+#rightsidebar {
+    background-image: url("../images/boston.jpg");
+        background-size: cover;
+        background-color: #7EC0EE;
+}
+
